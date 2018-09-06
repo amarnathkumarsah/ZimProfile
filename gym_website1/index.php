@@ -19,7 +19,7 @@
                                     <div class="banner-main-headding">
                                         <div class="container">
                                             <div class="banner-text">
-                                                <h3><font color="red">STAR ELEVEN GYM </font></h3>
+                                                <h3><font color="red">Amarnath GYM </font></h3>
                                                 <h1>Make Your Body <br><span>Stronger</span></h1>
                                                 <div class="slider-btn">
                                                     <a href="contactus.php" class="itg-button-2">join us now</a>
